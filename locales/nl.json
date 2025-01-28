@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -518,5 +527,182 @@
       "expanded": "Formulier voor ontvanger cadeaubon uitgevouwen",
       "collapsed": "Formulier voor ontvanger cadeaubon ingeklapt"
     }
+  },
+    "bikes": {
+    "title": {
+      "mtb": "MTB Vergelijking",
+      "gravel": "Gravel Fiets Vergelijking",
+      "road": "Wegfiets Vergelijking"
+    },
+    "weight_label": "Gewicht",
+    "gear_label": "Versnellingen",
+    "gears_label": "Versnellingen",
+    "frame_label": "Frame Materiaal",
+    "frameSize_label": "Frame Grootte",
+    "brakes_label": "Remmen",
+    "wheelSize_label": "Wielmaat",
+    "rims_label": "Velgen",
+    "fork_label": "Vork",
+    "travel_label": "Veerweg",
+    "sandman1": {
+      "title": "Sandman 1",
+      "description": "Goed en betaalbaar",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0657\/8415\/2277\/files\/IMG_0133.png?v=1714209511",
+      "weight": "9.8kg",
+      "gear": "Shimano SORA",
+      "gears": "18",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Mechanisch",
+      "wheelSize": "28 inch",
+      "rims": "Aluminium"
+    },
+    "sandman3": {
+      "title": "Sandman 3",
+      "description": "Veelzijdig",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0657\/8415\/2277\/files\/IMG_0170.png?v=1714209510",
+      "weight": "9.8kg",
+      "gear": "Shimano 105",
+      "gears": "22",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Mechanisch",
+      "wheelSize": "28 inch",
+      "rims": "Aluminium"
+    },
+    "sandman4": {
+      "title": "Sandman 4",
+      "description": "Onze best seller",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0657\/8415\/2277\/files\/sandman4-6-changed.webp?v=1716034595",
+      "weight": "9.8kg",
+      "gear": "Shimano GRX 400",
+      "gears": "20",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Hydraulisch",
+      "wheelSize": "28 inch",
+      "rims": "Aluminium"
+    },
+    "sandman5": {
+      "title": "Sandman 5",
+      "description": "Ultimate performance",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0657\/8415\/2277\/files\/rinos-carbon-gravel-bike-sandman50-shimano-r8000-ultegra_2.webp?v=1691264716",
+      "weight": "8.3kg",
+      "gear": "Shimano Ultegra",
+      "gears": "22",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Mechanisch",
+      "wheelSize": "28 inch",
+      "rims": "Koolstofvezel"
+    },
+    "sandman6": {
+      "title": "Sandman 6",
+      "description": "Beste in zijn klasse",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0657\/8415\/2277\/files\/sandman4-6-changed.webp?v=1716034595",
+      "weight": "9.8kg",
+      "gear": "Shimano GRX 600",
+      "gears": "22",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Hydraulisch",
+      "wheelSize": "28 inch",
+      "rims": "Aluminium"
+    },
+    "sandman7": {
+      "title": "Sandman 7",
+      "description": "Topklasse",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0657\/8415\/2277\/files\/sandman4-6-changed.webp?v=1716034595",
+      "weight": "9.6kg",
+      "gear": "Shimano GRX 820",
+      "gears": "24",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Hydraulisch",
+      "wheelSize": "28 inch",
+      "rims": "Aluminium"
+    },
+    "odin1": {
+      "title": "Odin 1",
+      "description": "Goed en betaalbaar",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0720\/5794\/6377\/products\/1_00d58ab3-d3ab-4e73-a70c-5969e095121d.jpg?v=1705745069",
+      "weight": "9.8kg",
+      "gear": "Shimano SORA",
+      "gears": "18",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Mechanisch",
+      "wheelSize": "28 inch",
+      "rims": "Aluminium"
+    },
+    "odin3": {
+      "title": "Odin 3",
+      "description": "Veelzijdig",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0720\/5794\/6377\/products\/IMG_5673-PhotoRoom.jpg?v=1705744957",
+      "weight": "9.8kg",
+      "gear": "Shimano 105",
+      "gears": "22",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Mechanisch",
+      "wheelSize": "28 inch",
+      "rims": "Aluminium"
+    },
+    "odin4": {
+      "title": "Odin 4",
+      "description": "Onze nieuwste model",
+      "image": "https:\/\/rinosbike.eu\/cdn\/shop\/files\/IMG-6896.jpg?v=1716727167&width=4096",
+      "weight": "9.2kg",
+      "gear": "Shimano 105",
+      "gears": "24",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Shimano 105 hydraulisch",
+      "wheelSize": "28 inch",
+      "rims": "Aluminium"
+    },
+    "odin5": {
+      "title": "Odin 5",
+      "description": "Ultimate performance",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0720\/5794\/6377\/products\/1_c416a5f9-949c-4751-897d-78d90ee65c85.jpg?v=1705745002",
+      "weight": "8.3kg",
+      "gear": "Shimano Ultegra",
+      "gears": "22",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Mechanisch",
+      "wheelSize": "28 inch",
+      "rims": "Koolstofvezel"
+    },
+    "gaia2": {
+      "title": "Gaia 2",
+      "description": "Kosteneffectief",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0720\/5794\/6377\/files\/IMG_5265.png?v=1716717476",
+      "weight": "11.9kg",
+      "gear": "Shimano Deore",
+      "gears": "12",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Hydraulisch",
+      "wheelSize": "29x2.25 inch",
+      "rims": "Aluminium",
+      "fork": "ROCKSHOX Recon RL Remote",
+      "travel": "100mm"
+    },
+    "gaia4": {
+      "title": "Gaia 4",
+      "description": "Voor professioneel gebruik",
+      "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0720\/5794\/6377\/files\/Gaia_4_main_bearbeitet-2.webp?v=1716723872",
+      "weight": "10.8kg",
+      "gear": "Shimano SLX",
+      "gears": "12",
+      "frame": "TORAY T800 Koolstofvezel",
+      "frameSize": "geoptimaliseerd voor rijders tussen 165-195 cm",
+      "brakes": "Hydraulisch",
+      "wheelSize": "29x2.25 inch",
+      "rims": "Aluminium",
+      "fork": "FOX 32 Rhythm Remote",
+      "travel": "100mm"
+    },
   }
 }
